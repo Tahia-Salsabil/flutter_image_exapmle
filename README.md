@@ -1,6 +1,6 @@
 # flutter_image_example
 
-A new project.
+A  project.
 
 ## Getting Started
 
